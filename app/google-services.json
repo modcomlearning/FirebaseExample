@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529781317055",
+    "project_id": "blogapp-33be4",
+    "storage_bucket": "blogapp-33be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529781317055:android:4821607e61f04fb3f7d50a",
+        "android_client_info": {
+          "package_name": "com.fire1.modcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC797RyYimmWOPdfRLKRHDT5AadMeYrByA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
